@@ -5,7 +5,7 @@ using System.Diagnostics;
 
 namespace ClickToCopy
 {
-    public partial class Form1 : Form
+    public partial class Form1 : Form //Version 1.0 Build 1
     {
         void CreateDirectory(string UserFolder,string AppData, string AppDataFolder, string FileCharList)
         {
