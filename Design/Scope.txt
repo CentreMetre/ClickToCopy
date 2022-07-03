@@ -1,0 +1,1 @@
+This winforms app allows the user to click a button to copy a character to their clipboard, e.g. if it is a charachter that isnt normally on a keybaord, such as an interrobang (‽).
