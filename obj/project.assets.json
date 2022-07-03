@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\C#\\_Programmes Including Documenation\\ClickToCopy\\ClickToCopy.csproj",
+      "projectUniqueName": "C:\\Users\\lucky\\Source\\Repos\\CentreMetre\\ClickToCopy\\ClickToCopy.csproj",
       "projectName": "ClickToCopy",
-      "projectPath": "D:\\Programming\\C#\\_Programmes Including Documenation\\ClickToCopy\\ClickToCopy.csproj",
+      "projectPath": "C:\\Users\\lucky\\Source\\Repos\\CentreMetre\\ClickToCopy\\ClickToCopy.csproj",
       "packagesPath": "C:\\Users\\lucky\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\C#\\_Programmes Including Documenation\\ClickToCopy\\obj\\",
+      "outputPath": "C:\\Users\\lucky\\Source\\Repos\\CentreMetre\\ClickToCopy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucky\\AppData\\Roaming\\NuGet\\NuGet.Config",

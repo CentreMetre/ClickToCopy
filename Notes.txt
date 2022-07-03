@@ -1,0 +1,7 @@
+﻿Use \AppData\Local to store the app's data
+
+C:\Users\[USER]\AppData\Local\ClickToCopy #AppData is a hidden folder
+
+use Environment.GetFolderPath(Environment.SpecialFolder.UserProfile) to get the user folder
+
+Buttons are 30x30, each button should be 36 below (x, y+36) (Plus becuase y goes up downwards)

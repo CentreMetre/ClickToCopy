@@ -1,0 +1,17 @@
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\bin\Debug\net6.0-windows\ClickToCopy.exe
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\bin\Debug\net6.0-windows\ClickToCopy.deps.json
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\bin\Debug\net6.0-windows\ClickToCopy.runtimeconfig.json
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\bin\Debug\net6.0-windows\ClickToCopy.dll
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\bin\Debug\net6.0-windows\ClickToCopy.pdb
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\ClickToCopy.csproj.AssemblyReference.cache
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\ClickToCopy.Form1.resources
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\ClickToCopy.csproj.GenerateResource.cache
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\ClickToCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\ClickToCopy.AssemblyInfoInputs.cache
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\ClickToCopy.AssemblyInfo.cs
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\ClickToCopy.csproj.CoreCompileInputs.cache
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\ClickToCopy.dll
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\refint\ClickToCopy.dll
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\ClickToCopy.pdb
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\ClickToCopy.genruntimeconfig.cache
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\ref\ClickToCopy.dll
