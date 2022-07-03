@@ -1,1 +1,2 @@
-This winforms app allows the user to click a button to copy a character to their clipboard, e.g. if it is a charachter that isnt normally on a keybaord, such as an interrobang (‽).
+This winforms app allows the user to click a button to copy a character to their clipboard, e.g. if it is a charachter that isnt normally on a keyboard, such as an interrobang (‽).
+The user can add more through the app which will then be saved to a txt file, or the user can directly edit the txt file. This file will be saved in the c:\Users\[USER]\ClickToCopy.
