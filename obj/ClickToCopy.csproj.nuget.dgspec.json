@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucky\\source\\repos\\CentreMetre\\ClickToCopy\\ClickToCopy.csproj": {}
+    "C:\\Users\\lucky\\Source\\Repos\\CentreMetre\\ClickToCopy\\ClickToCopy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucky\\source\\repos\\CentreMetre\\ClickToCopy\\ClickToCopy.csproj": {
+    "C:\\Users\\lucky\\Source\\Repos\\CentreMetre\\ClickToCopy\\ClickToCopy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucky\\source\\repos\\CentreMetre\\ClickToCopy\\ClickToCopy.csproj",
+        "projectUniqueName": "C:\\Users\\lucky\\Source\\Repos\\CentreMetre\\ClickToCopy\\ClickToCopy.csproj",
         "projectName": "ClickToCopy",
-        "projectPath": "C:\\Users\\lucky\\source\\repos\\CentreMetre\\ClickToCopy\\ClickToCopy.csproj",
+        "projectPath": "C:\\Users\\lucky\\Source\\Repos\\CentreMetre\\ClickToCopy\\ClickToCopy.csproj",
         "packagesPath": "C:\\Users\\lucky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucky\\source\\repos\\CentreMetre\\ClickToCopy\\obj\\",
+        "outputPath": "C:\\Users\\lucky\\Source\\Repos\\CentreMetre\\ClickToCopy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucky\\AppData\\Roaming\\NuGet\\NuGet.Config",

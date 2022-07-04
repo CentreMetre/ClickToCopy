@@ -33,15 +33,16 @@
             this.EditCharacterFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.button1 = new System.Windows.Forms.Button();
             this.PnlButtons = new System.Windows.Forms.Panel();
+            this.MenuItemAbout = new System.Windows.Forms.ToolStripMenuItem();
             this.MenuItemStrip.SuspendLayout();
             this.SuspendLayout();
             // 
             // MenuItemStrip
             // 
             this.MenuItemStrip.GripMargin = new System.Windows.Forms.Padding(0);
-            this.MenuItemStrip.GripStyle = System.Windows.Forms.ToolStripGripStyle.Visible;
             this.MenuItemStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.MenuItemFile});
+            this.MenuItemFile,
+            this.MenuItemAbout});
             this.MenuItemStrip.Location = new System.Drawing.Point(0, 0);
             this.MenuItemStrip.Name = "MenuItemStrip";
             this.MenuItemStrip.Padding = new System.Windows.Forms.Padding(0);
@@ -64,7 +65,7 @@
             // EditCharacterFileToolStripMenuItem
             // 
             this.EditCharacterFileToolStripMenuItem.Name = "EditCharacterFileToolStripMenuItem";
-            this.EditCharacterFileToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.EditCharacterFileToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.EditCharacterFileToolStripMenuItem.Text = "Edit Character File...";
             this.EditCharacterFileToolStripMenuItem.Click += new System.EventHandler(this.editCharacterFileToolStripMenuItem_Click);
             // 
@@ -85,6 +86,13 @@
             this.PnlButtons.Name = "PnlButtons";
             this.PnlButtons.Size = new System.Drawing.Size(120, 339);
             this.PnlButtons.TabIndex = 7;
+            // 
+            // MenuItemAbout
+            // 
+            this.MenuItemAbout.Name = "MenuItemAbout";
+            this.MenuItemAbout.Size = new System.Drawing.Size(52, 24);
+            this.MenuItemAbout.Text = "About";
+            this.MenuItemAbout.Click += new System.EventHandler(this.MenuItemAbout_Click);
             // 
             // Form1
             // 
@@ -112,5 +120,6 @@
         private ToolStripMenuItem EditCharacterFileToolStripMenuItem;
         private Button button1;
         private Panel PnlButtons;
+        private ToolStripMenuItem MenuItemAbout;
     }
 }
