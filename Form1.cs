@@ -5,7 +5,7 @@ using System.Diagnostics;
 
 namespace ClickToCopy
 {
-    public partial class Form1 : Form //Version 1.0 Build 1
+    public partial class Form1 : Form //Version 1.1.0 Build 2
     {
         void CreateDirectory(string UserFolder,string AppData, string AppDataFolder, string FileCharList)
         {
@@ -48,8 +48,8 @@ namespace ClickToCopy
             int LineCountInt = Convert.ToInt32(LineCount); //Converts the number of lines to a usable format (int)
 
 
-            int x = 39;
-            int y = 56;
+            int x = 38;
+            int y = 12;
             using (StreamReader rs = new StreamReader(UserFolder + PathMidToEnd))
             {
                 for (int i = 0; i < LineCountInt; i++)
@@ -61,7 +61,7 @@ namespace ClickToCopy
                     button.Text = rs.ReadLine();
                     button.Font = new Font("Segoe UI", 12);
                     button.Name = "NewButton";
-                    this.Controls.Add(button);
+                    PnlButtons.Controls.Add(button);
                     button.Click += new EventHandler(button_Click);
                     void button_Click(object sender, EventArgs e)
                     {
@@ -116,6 +116,11 @@ namespace ClickToCopy
         private void button1_Click(object sender, EventArgs e)
         {
             GenerateButtons();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
