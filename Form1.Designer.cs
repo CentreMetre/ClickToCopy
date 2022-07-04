@@ -32,6 +32,7 @@
             this.MenuItemFile = new System.Windows.Forms.ToolStripMenuItem();
             this.EditCharacterFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.button1 = new System.Windows.Forms.Button();
+            this.PnlButtons = new System.Windows.Forms.Panel();
             this.MenuItemStrip.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -77,11 +78,20 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // PnlButtons
+            // 
+            this.PnlButtons.AutoScroll = true;
+            this.PnlButtons.Location = new System.Drawing.Point(0, 50);
+            this.PnlButtons.Name = "PnlButtons";
+            this.PnlButtons.Size = new System.Drawing.Size(120, 339);
+            this.PnlButtons.TabIndex = 7;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(120, 389);
+            this.Controls.Add(this.PnlButtons);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.MenuItemStrip);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
@@ -101,5 +111,6 @@
         private ToolStripMenuItem MenuItemFile;
         private ToolStripMenuItem EditCharacterFileToolStripMenuItem;
         private Button button1;
+        private Panel PnlButtons;
     }
 }
