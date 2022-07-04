@@ -15,3 +15,4 @@ C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\ref
 C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\ClickToCopy.pdb
 C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\ClickToCopy.genruntimeconfig.cache
 C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\ref\ClickToCopy.dll
+C:\Users\lucky\Source\Repos\CentreMetre\ClickToCopy\obj\Debug\net6.0-windows\ClickToCopy.FormAbout.resources

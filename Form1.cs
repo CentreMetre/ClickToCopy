@@ -5,7 +5,7 @@ using System.Diagnostics;
 
 namespace ClickToCopy
 {
-    public partial class Form1 : Form //Version 1.1.0 Build 2
+    public partial class Form1 : Form //Version 1.2.0 Build 3
     {
         void CreateDirectory(string UserFolder,string AppData, string AppDataFolder, string FileCharList)
         {
@@ -121,6 +121,12 @@ namespace ClickToCopy
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void MenuItemAbout_Click(object sender, EventArgs e)
+        {
+            FormAbout About = new FormAbout();
+            About.Show();
         }
     }
 }
