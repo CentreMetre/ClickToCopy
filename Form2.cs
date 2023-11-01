@@ -26,5 +26,10 @@ namespace ClickToCopy
         {
             this.Close();
         }
+
+        private void LblVersion_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
